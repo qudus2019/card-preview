@@ -15,14 +15,14 @@ body{
     width: 70vw;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    margin:100px auto;
+    margin:150px auto;
     color:hsl(0, 0%, 95%);
 }
 
 .card{
     padding:50px ;
     word-spacing: 0.6em;
-    height:55vh;
+    height:52vh;
 }
 
 .card:first-child{
