@@ -165,15 +165,12 @@ button:hover{
         border-radius: 0px 0px 7px 7px;
     }
 
-    .card{
-        height:fit-content;
-    }
 
     p{font-size: 17px;}
 
     .card{
         padding:50px;
-        height:60vh;
+        height:fit-content;
     }
 
     .title{
