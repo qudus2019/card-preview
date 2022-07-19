@@ -153,6 +153,7 @@ button:hover{
         display:grid;
         grid-template-columns: 1fr;
         width:80vw;
+max-height:fit-content;
         
     }
 
