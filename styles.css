@@ -13,7 +13,7 @@ body{
 
 .card-container{
     width: 70vw;
-max-height:50vh;
+max-height:48vh;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     margin:150px auto;
