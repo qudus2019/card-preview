@@ -21,7 +21,7 @@ max-height:50vh;
 }
 
 .card{
-    padding:40px ;
+    padding:40px 20px ;
     word-spacing: 0.6em;
     height:100%;
 }
