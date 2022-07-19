@@ -71,7 +71,7 @@ button{
     height:40px;
     border-radius: 30px;
     border:none;
-    margin-bottom: 0px;
+    margin-top: 10px;
     font-weight: 700;
     cursor: pointer;
     transition:all 500ms ease-in-out;
@@ -142,7 +142,7 @@ button:hover{
     p{font-size: 12px;}
 
     button{
-        margin-bottom: 0px;
+        margin-top: 20px;
         
     }
 }
