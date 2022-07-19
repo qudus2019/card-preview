@@ -13,7 +13,7 @@ body{
 
 .card-container{
     width: 70vw;
-max-height:50vh;
+max-height:48vh;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     margin:150px auto;
@@ -21,7 +21,7 @@ max-height:50vh;
 }
 
 .card{
-    padding:40px 20px ;
+    padding:30px 20px ;
     word-spacing: 0.6em;
     height:100%;
 }
